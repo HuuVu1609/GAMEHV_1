@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd0e8907cc7ee6479a21d13b9dc8ad7, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: Egg
+    icon: {fileID: -8532656446138063900, guid: 7f020cf9eba569544af5bcd76200b329, type: 3}
+    id: 1
+  - itemName: friedEggs
+    icon: {fileID: 6138725890342738699, guid: 617fe3426aea09d478a31a32f3677339, type: 3}
+    id: 2
